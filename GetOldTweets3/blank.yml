@@ -1,0 +1,5 @@
+try:
+    import GetOldTweets3 as got
+except:
+    !pip install GetOldTweets3
+    import GetOldTweets3 as got
